@@ -42,7 +42,7 @@ An AI chatbot offering Biblical wisdom, powered by:
 
 **Tech Stack:** React.js, Flask, RabbitMQ, Redis
 
-![versewiselogo](https://github.com/user-attachments/assets/e73a2ee2-98bd-4491-be39-e7026e8a4877)
+<img src="https://path-to-your-image.jpg](https://github.com/user-attachments/assets/e73a2ee2-98bd-4491-be39-e7026e8a4877" alt="Profile Image" width="150" />
 
 ---
 

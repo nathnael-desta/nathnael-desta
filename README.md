@@ -35,6 +35,7 @@ Here are some of the tools and technologies I use:
 ## 🌟 Projects
 ### [VERSEWise](https://versewise.io)
 https://github.com/VerseWise/verse-wise-web-app
+
 An AI chatbot offering Biblical wisdom, powered by:
 - Real-time WebSockets for seamless interaction
 - Flask APIs for a robust CMS backend

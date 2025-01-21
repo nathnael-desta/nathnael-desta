@@ -1,6 +1,7 @@
 # Hi there! I'm Nathnael Desta ✨
 
-![Profile Banner]([https://user-images.githubusercontent.com/your-username/banner-placeholder.png](https://media.licdn.com/dms/image/v2/D4D03AQHspdEGFSiTFg/profile-displayphoto-shrink_200_200/B4DZP9uxAWG0Ac-/0/1735128716449?e=1743033600&v=beta&t=7_BL2ZbbFINxStAVV9ohvxH6sU8mTAz9VW64fB7M3JE))
+![Profile Banner](![IMG_20250103_110952_084](https://github.com/user-attachments/assets/fd3d80b3-62e3-4467-a5f2-5040dbb49100)
+)
 
 ## 🚀 About Me
 I'm a passionate **Web Developer** and **Machine Learning Enthusiast** dedicated to creating intelligent, user-friendly web experiences. With a foundation in Electrical and Computer Engineering from **Addis Ababa University**, I enjoy tackling challenges and building applications that make an impact.

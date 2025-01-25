@@ -1,7 +1,8 @@
 # Hi there! I'm Nathnael Desta ✨
 
 ## 🚀 About Me
-I'm a passionate **Web Developer** and **Machine Learning Enthusiast** dedicated to creating intelligent, user-friendly web experiences. With a foundation in Electrical and Computer Engineering from **Addis Ababa University**, I enjoy tackling challenges and building applications that make an impact.
+I'm a passionate **Web Developer** and **Machine Learning Enthusiast** with a strong foundation in **Next.js** for building modern, scalable web applications. I am dedicated to creating intelligent, user-friendly web experiences. With a background in Electrical and Computer Engineering from **Addis Ababa University**, I enjoy tackling challenges and building impactful applications.
+
 
 ### **What I Love Working On:**
 - Building AI-driven solutions 🌟
@@ -33,7 +34,7 @@ Here are some of the tools and technologies I use:
 ## 🌟 Projects
 
 ### Next.js Mentorship Project
-https://github.com/nathnael-desta/nextjs-mentorship
+[https://github.com/CruSea/soul-sync-frontend]
 
 A comprehensive mentorship platform built with **Next.js**, focusing on:
 - **Scalable architecture** for mentor-mentee connections

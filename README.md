@@ -15,7 +15,7 @@ Here are some of the tools and technologies I use:
 
 ### **Languages & Frameworks:**
 - JavaScript (ES6+), HTML5, CSS3
-- **React.js**, **Vue.js**, **Next.js**
+-  **Next.js**, **React.js**, **Vue.js**,
 - **Python** (NumPy, TensorFlow, PyTorch)
 
 ### **Tools & Practices:**
@@ -31,6 +31,20 @@ Here are some of the tools and technologies I use:
 ---
 
 ## 🌟 Projects
+
+### Next.js Mentorship Project
+https://github.com/nathnael-desta/nextjs-mentorship
+
+A comprehensive mentorship platform built with **Next.js**, focusing on:
+- **Scalable architecture** for mentor-mentee connections
+- **Role-based authentication** using NextAuth
+- **Real-time messaging** powered by WebSockets
+- **Responsive design** for seamless use across devices
+
+**Tech Stack:** Next.js, NextAuth, Tailwind CSS, WebSockets
+
+---
+
 ### [VERSEWise](https://versewise.io)
 https://github.com/VerseWise/verse-wise-web-app
 
@@ -41,8 +55,6 @@ An AI chatbot offering Biblical wisdom, powered by:
 - Redis for efficient context management
 
 **Tech Stack:** React.js, Flask, RabbitMQ, Redis
-
-<img src="https://path-to-your-image.jpg](https://github.com/user-attachments/assets/e73a2ee2-98bd-4491-be39-e7026e8a4877" alt="Profile Image" width="150" />
 
 ---
 

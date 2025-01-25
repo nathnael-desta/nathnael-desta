@@ -60,8 +60,9 @@ An AI chatbot offering Biblical wisdom, powered by:
 ---
 
 ## 🏆 Achievements
-- **HackAddis2024 Winner:** Built VERSEWise, an AI chatbot for Biblical topics.
-- Completed certifications in **Supervised Learning** and **Advanced Algorithms** from Stanford University through DeepLearning.AI.
+- - **HackAddis2024 Winner (Ethiopia):** Built VERSEWise, an AI chatbot for Biblical topics, combining advanced technology like WebSockets, Flask, and RabbitMQ for seamless interaction and efficient context management.  
+- **International $HACK Popular Vote Winner:** Secured the global popular vote at $HACK for VERSEWise, showcasing its innovative approach to combining AI with accessibility and usability.
+- Completed certifications in **Machine Learning Specialization** from Stanford University through DeepLearning.AI.
 - **Cisco CCNA Networking Certified.**
 
 ---

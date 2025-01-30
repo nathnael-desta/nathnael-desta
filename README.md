@@ -48,6 +48,7 @@ A comprehensive mentorship platform built with **Next.js**, focusing on:
 
 ### [VERSEWise](https://versewise.io)
 https://github.com/VerseWise/verse-wise-web-app
+https://versewise.io
 
 An AI chatbot offering Biblical wisdom, powered by:
 - Real-time WebSockets for seamless interaction

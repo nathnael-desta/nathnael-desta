@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm a passionate **Web Developer** and **Machine Learning Enthusiast** with a strong foundation in **Next.js** for building modern, scalable web applications. I am dedicated to creating intelligent, user-friendly web experiences. With a background in Electrical and Computer Engineering from **Addis Ababa University**, I enjoy tackling challenges and building impactful applications.
 
-<img src="https://raw.githubusercontent.com/nathnael-desta/nathnael-desta/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/nathnael-desta/nathnael-desta/blob/output/github-snake-dark.svg)
 
 ###
 

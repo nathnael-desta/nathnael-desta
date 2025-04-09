@@ -98,5 +98,3 @@ Feel free to reach out to me for collaboration, questions, or just to say hi!
 
 ---
 
-Let's make the web smarter, one project at a time!
-

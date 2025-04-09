@@ -96,5 +96,3 @@ Feel free to reach out to me for collaboration, questions, or just to say hi!
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nathnael-desta&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nathnael-desta&layout=compact&theme=radical)
 
----
-

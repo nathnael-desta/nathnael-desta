@@ -3,7 +3,7 @@
 [![View my CV](https://img.shields.io/badge/View%20My%20CV-blue?style=for-the-badge&logo=CV)](https://flowcv.com/resume/sb6bns3m88r2)
 
 ## 🚀 About Me
-I'm a passionate **Web Developer** and **Machine Learning Enthusiast** with a strong foundation in **Next.js** for building modern, scalable web applications. I am dedicated to creating intelligent, user-friendly web experiences. With a background in Electrical and Computer Engineering from **Addis Ababa University**, I enjoy tackling challenges and building impactful applications.
+I'm an aspiring **AI Engineer** with a strong foundation in Machine Learning and a background in Electrical and Computer Engineering from Addis Ababa University. I enjoy building intelligent, scalable applications and integrating AI into real-world systems. With experience in Next.js and modern web technologies, I focus on creating user-friendly, ML-powered web experiences and solving impactful problems through data-driven solutions.
 
 ![snake gif](https://github.com/nathnael-desta/nathnael-desta/blob/output/snake.svg)
 
